@@ -1,0 +1,16 @@
+{
+    "name": "iostapchuk/adapter",
+    "authors": [
+        {
+            "name": "Igor Ostapchuk",
+            "email": "iostapchuk@chegg.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Classes\\":"./Class/",
+            "AdapterInterface\\":"./AdapterInterface/"
+        }
+    },
+    "require": {}
+}
