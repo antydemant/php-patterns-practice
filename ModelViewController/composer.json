@@ -1,0 +1,15 @@
+{
+    "name": "iostapchuk/model-view-controller",
+    "authors": [
+        {
+            "name": "Igor Ostapchuk",
+            "email": "iostapchuk@chegg.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Models\\":"./Models/"
+        }
+    },
+    "require": {}
+}
